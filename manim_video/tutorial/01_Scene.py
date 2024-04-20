@@ -107,14 +107,19 @@ class ValueTracker1(Scene):
 
 class Array1D(Scene):
 
-    def get_grid_box(self, value, stroke_width=2, color=WHITE):
+    def get_grid_box(self, value, bad=[], stroke_width=2, color=WHITE, length=1):
+        fillColor = RED if value in bad else BLACK
         return VGroup(
+            Square(side_length=length, color=color, stroke_width=stroke_width,
+                   fill_color=fillColor, fill_opacity=0.5),
             MathTex("{:.0f}".format(value)),
-            Square(side_length=.5, color=color, stroke_width=stroke_width)
         )
 
     def construct(self):
-        arr = [1, 2, 3, 4, 5]
-        arr_group = VGroup(*[self.get_grid_box(i) for i in arr]).arrange(RIGHT)
-        self.play(Create(arr_group))
+        arr = [i for i in range(20)]
+        bad = [2, 4, 5, 6, 8, 10, 12, 14, 16, 18]
+        arr_group = VGroup(*[self.get_grid_box(i, bad=bad)
+                           for i in arr]).arrange(RIGHT)
+        arr_group.arrange_in_grid(rows=4, buff=0)
+        self.play(Create(arr_group), run_time=5)
         self.wait()
