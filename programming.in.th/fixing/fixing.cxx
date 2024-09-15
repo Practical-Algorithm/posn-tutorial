@@ -22,17 +22,21 @@ int main()
     rightmostBadTile = max(rightmostBadTile, badTiles[i]);
   }
 
-  int coveredGoodTiles = rightmostBadTile - leftmostBadTile + 1 - m;
+  int coveredGoodTiles =
+      rightmostBadTile - leftmostBadTile + 1 - m;
 
   vector<int> goodTilesRange;
   for (int i = 0; i < m - 1; i++)
   {
     goodTilesRange.push_back(badTiles[i + 1] - badTiles[i] - 1);
   }
-  sort(goodTilesRange.begin(), goodTilesRange.end(), greater<int>());
+  sort(goodTilesRange.begin(), goodTilesRange.end(),
+       greater<int>());
 
   int ans = coveredGoodTiles;
-  for (int i = 0; i < k - 1 && i < (int)goodTilesRange.size(); i++)
+  for (int i = 0;
+       i < k - 1 && i < (int)goodTilesRange.size();
+       i++)
   {
     ans -= goodTilesRange[i];
   }

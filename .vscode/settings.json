@@ -1,0 +1,9 @@
+{
+  "git.decorations.enabled": true,
+  "git.enabled": false,
+  "github.copilot.editor.enableCodeActions": false,
+  "files.associations": {
+    "random": "cpp"
+  },
+  "editor.tabSize": 2
+}
