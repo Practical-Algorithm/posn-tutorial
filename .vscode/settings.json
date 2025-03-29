@@ -1,6 +1,6 @@
 {
   "git.decorations.enabled": true,
-  "git.enabled": false,
+  "git.enabled": true,
   "github.copilot.editor.enableCodeActions": false,
   "files.associations": {
     "random": "cpp"
