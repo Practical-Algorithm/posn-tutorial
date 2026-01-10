@@ -1,0 +1,226 @@
+Found node 0
+Decrease indegree of 222 to 1
+Decrease indegree of 293 to 1
+Found node 1
+Decrease indegree of 130 to 1
+Found node 2
+Decrease indegree of 211 to 1
+Found node 3
+Found node 4
+Decrease indegree of 105 to 1
+Decrease indegree of 304 to 1
+Found node 5
+Decrease indegree of 201 to 1
+Found node 6
+Decrease indegree of 140 to 1
+Decrease indegree of 278 to 1
+Found node 7
+Decrease indegree of 143 to 1
+Found node 8
+Found node 9
+Decrease indegree of 164 to 1
+Decrease indegree of 310 to 1
+Found node 10
+Decrease indegree of 170 to 1
+Found node 11
+Decrease indegree of 229 to 1
+Found node 12
+Decrease indegree of 139 to 1
+Decrease indegree of 202 to 1
+Found node 13
+Found node 14
+Decrease indegree of 287 to 1
+Found node 15
+Found node 16
+Found node 17
+Found node 18
+Decrease indegree of 93 to 1
+Found node 19
+Decrease indegree of 123 to 1
+Decrease indegree of 214 to 1
+Found node 20
+Decrease indegree of 289 to 1
+Found node 21
+Found node 22
+Decrease indegree of 169 to 1
+Decrease indegree of 212 to 1
+Found node 23
+Found node 24
+Decrease indegree of 192 to 1
+Found node 25
+Decrease indegree of 196 to 1
+Found node 26
+Decrease indegree of 99 to 1
+Found node 27
+Found node 28
+Decrease indegree of 241 to 1
+Found node 29
+Decrease indegree of 135 to 1
+Decrease indegree of 268 to 1
+Found node 30
+Found node 31
+Found node 32
+Decrease indegree of 232 to 1
+Decrease indegree of 291 to 1
+Found node 33
+Decrease indegree of 145 to 1
+Found node 34
+Found node 35
+Found node 36
+Decrease indegree of 281 to 1
+Found node 37
+Decrease indegree of 125 to 1
+Found node 38
+Decrease indegree of 142 to 1
+Decrease indegree of 242 to 1
+Found node 39
+Decrease indegree of 189 to 1
+Decrease indegree of 224 to 1
+Found node 40
+Decrease indegree of 113 to 1
+Found node 41
+Decrease indegree of 144 to 1
+Found node 42
+Decrease indegree of 102 to 1
+Found node 43
+Decrease indegree of 129 to 1
+Found node 44
+Decrease indegree of 165 to 1
+Decrease indegree of 118 to 1
+Found node 45
+Found node 46
+Decrease indegree of 104 to 1
+Found node 47
+Decrease indegree of 272 to 1
+Found node 48
+Decrease indegree of 180 to 1
+Decrease indegree of 216 to 1
+Found node 49
+Found node 50
+Decrease indegree of 280 to 1
+Found node 51
+Found node 52
+Decrease indegree of 176 to 1
+Found node 53
+Decrease indegree of 274 to 1
+Decrease indegree of 300 to 1
+Found node 54
+Found node 55
+Decrease indegree of 100 to 1
+Found node 56
+Decrease indegree of 153 to 1
+Found node 57
+Found node 58
+Decrease indegree of 239 to 1
+Decrease indegree of 206 to 1
+Found node 59
+Decrease indegree of 275 to 1
+Found node 60
+Decrease indegree of 171 to 1
+Decrease indegree of 240 to 1
+Found node 61
+Decrease indegree of 115 to 1
+Decrease indegree of 134 to 1
+Found node 62
+Decrease indegree of 220 to 1
+Decrease indegree of 251 to 1
+Found node 63
+Decrease indegree of 205 to 1
+Found node 64
+Found node 65
+Decrease indegree of 311 to 1
+Found node 66
+Decrease indegree of 237 to 1
+Decrease indegree of 253 to 1
+Found node 67
+Found node 68
+Decrease indegree of 120 to 1
+Decrease indegree of 308 to 1
+Found node 69
+Decrease indegree of 282 to 1
+Found node 70
+Decrease indegree of 204 to 1
+Found node 71
+Decrease indegree of 244 to 1
+Found node 72
+Decrease indegree of 260 to 1
+Decrease indegree of 96 to 1
+Found node 73
+Decrease indegree of 248 to 1
+Found node 74
+Found node 75
+Decrease indegree of 98 to 1
+Decrease indegree of 230 to 1
+Found node 76
+Decrease indegree of 158 to 1
+Decrease indegree of 210 to 1
+Found node 77
+Found node 78
+Decrease indegree of 197 to 1
+Found node 79
+Decrease indegree of 155 to 1
+Decrease indegree of 298 to 1
+Found node 80
+Decrease indegree of 173 to 1
+Decrease indegree of 306 to 1
+Found node 81
+Decrease indegree of 249 to 1
+Found node 82
+Decrease indegree of 302 to 1
+Found node 83
+Found node 84
+Found node 85
+Decrease indegree of 179 to 1
+Found node 86
+Decrease indegree of 186 to 1
+Found node 87
+Decrease indegree of 277 to 1
+Found node 88
+Decrease indegree of 101 to 1
+Found node 89
+z14 0
+z04 0
+z20 0
+z19 0
+z05 0
+z03 0
+z06 0
+z43 0
+z33 0
+z44 0
+z09 0
+z45 0
+z26 0
+z31 0
+z37 0
+z41 0
+z39 0
+z30 0
+z10 0
+z12 0
+z13 0
+z22 0
+z23 0
+z15 0
+z08 0
+z32 0
+z11 0
+z07 0
+z42 0
+z34 0
+z17 0
+z02 0
+z35 16
+z40 0
+z38 0
+z18 0
+z29 0
+z24 0
+z01 0
+z00 0
+z25 0
+z16 0
+z28 0
+z27 0
+z36 0
+z21 0

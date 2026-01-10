@@ -1,0 +1,1 @@
+python3 2_part2.py < input.txt > out.txt
